@@ -12,6 +12,7 @@ To add your own addon(s), use the edit button at the bottom of the page, click t
 Most of these addons are made by the community.
 If you have issues with the addon, it will probably be better to go to any support the author of the addon has, rather than the main bedwars support.
 
+- [Bedwars1058-LevelBar Addon - Shows Level and experience in the xp bar] (https://www.spigotmc.org/resources/bedwars1058-levelbar-addon.104520) - by Shanvir
 - [BedWars1058-HotbarManager - Feature Packed HotBar Manager for BedWars1058](https://polymart.org/resource/2183) - by StudioBeam Development (Pro_Nil)
 - [⚔️ BedWars1058-Armed Mode Addon - A exciting new gamemode for BedWars1058](https://polymart.org/resource/2394) - by StudioBeam Development (Pro_Nil)
 - [Cosmetics - 300+ In-built cosmetics, custom cosmetics, custom rarities, multifunctional, packet-based and more](https://polymart.org/resource/1619) - by Mher
