@@ -68,11 +68,10 @@ If you have issues with the addon, it will probably be better to go to any suppo
 You can download some Pre-made Setups from here.
 
 ### Premium Setups
+- by Shanvir - [⚔ CRAZY BEDWARS SETUP ⚔](https://polymart.org/resource/2913/)
 - by Adi100 - [BEDWARS SETUP ✨Generator Upgrade | Afk System | Custom Menus | NPCs](https://builtbybit.com/resources/12378/)
 - by Ruben_Artz - [BEDWARS + DISCORD BOT](https://polymart.org/resource/544/)
 - by DyeEarth - [❄️ Premade Bedwars - Setups](https://polymart.org/resource/1679/)
-- by Shanvir - [⚔ BEDWARS SETUP ⚔](https://polymart.org/resource/2913/)
-- by ArrowTan - [Brand New 1.17.1 Bedwars Setup](https://polymart.org/resource/3038)
 
 ### Free Setups
 - by BijjuXD - [🔥FREE BEDWARS SETUP 🔥](https://polymart.org/r/4343)
